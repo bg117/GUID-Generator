@@ -9,8 +9,6 @@ Language: VB.NET
 
 Press `Generate Without Brackets` to generate a GUID without brackets. Press `Generate With Brackets` to generate a GUID with brackets.
 
-Copyright © OpenCode 2020.
-
-Made by Kian Gabriel Arambulo
+Copyright © OpenCode 2020
 
 <sup>Last updated: December 19, 2020</sup>
